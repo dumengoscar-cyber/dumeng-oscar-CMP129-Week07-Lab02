@@ -1,3 +1,8 @@
+//name: oscar dumeng
+//date: 10/22/2026
+//lab: 2
+//week: 7
+//course: cmp129
 public final class ImmutableStudent {
 
     // TODO: Create two private final fields:

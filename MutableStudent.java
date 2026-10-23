@@ -1,4 +1,9 @@
 public class MutableStudent {
+//name: oscar dumeng
+//date: 10/22/2026
+//lab: 2
+//week: 7
+//course: cmp129
 
     // TODO: Create two private fields:
     // 1. name (String)

@@ -1,4 +1,9 @@
-  public class StudentTest {
+ //name: oscar dumeng
+//date: 10/22/2026
+//lab: 2
+//week: 7
+//course: cmp129
+ public class StudentTest {
 
     public static void main(String[] args) {
 
@@ -39,6 +44,6 @@ student2.displayInfo();
         // 3. What is the biggest difference you noticed?
    //mutable student
    //immutable
-   //immutable cannot be changed and it private while mutable can be changed and 
+   //immutable cannot be changed and its fields have to be private while mutable can be changed and its fields should eb private as well 
     }
 }
