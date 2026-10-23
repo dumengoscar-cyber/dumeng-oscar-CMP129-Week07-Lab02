@@ -8,7 +8,7 @@ private int age;
 
     // TODO: Create a constructor that receives name and age.
     // Store the values in the object's fields.
-public mutableStudent(String name, int age)
+public MutableStudent(String name, int age)
 {
     this.name = name;
     this.age = age;
